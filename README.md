@@ -13,7 +13,7 @@ This is an **INCOMPLETE mini** bank application written in C. It is used to rein
 - _I believe a bank app should be network-enabled and this is not. So, the function that handles transfer from a customer to another is incomplete. The money transferred disappears and that is not right._
 - _A database is needed for every bank application...It is missing here :wink:_
 - _Very funny :grinning:; This bank app doesn't use account number... You might be interested._
-- _Every customer should have an ID to identify them easily, I falied again.:smirk:_
+- _Every customer should have an ID to identify them easily, I failed again.:smirk:_
 - _The source code is not explanatory enough, so you can write a documentation for it._
 - _This list is not exhaustive enough...There could be other features that elude me which you can think of in a fly_
 ## CONTRIBUTION
@@ -29,5 +29,4 @@ git checkout <name>
 - Make a pull request to me, and I will be kind enough to reply. I am a gentleman :smiley:.
 ## AUTHORS
 - OVECJOE <ovecjoe123@gmail.com>
-- You will also join this section once done
-
+> **NOTE**: Your name will join the list once you have contributed to the repo.
