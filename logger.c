@@ -103,7 +103,7 @@ void deposit_logger(FILE *file, RegInfo data, MONEY_T amount)
 }
 
 /**
- * signup_writer - logs a message if SignUp is successful
+ * signup_logger - logs a message if SignUp is successful
  * @file: the log file
  * @data: the customer's data
  * @amount: Unused
