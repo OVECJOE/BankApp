@@ -11,7 +11,7 @@ This is an **INCOMPLETE mini** bank application written in C. It is used to rein
 > To install this program:
 
 1. `git clone <repo_url>`
-2. `cd BankApp`
+2. `cd BankApp; cd bank_app`
 3. `source ./build.sh`
 4. `./bank`
 
@@ -24,6 +24,17 @@ This is an **INCOMPLETE mini** bank application written in C. It is used to rein
 - _Every customer should have an ID to identify them easily, I failed again.:smirk:_
 - _The source code is not explanatory enough, so you can write a documentation for it._
 - _This list is not exhaustive enough...There could be other features that elude me which you can think of in a fly_
+
+## FEATURES IN PROGRESS
+
+At present, I am trying to implement a database system for the customers, because the use of files
+is becoming inefficient.
+
+### THE DATABASE SYSTEM WILL
+
+- store a new customer's info.
+- dynamically updates the database once any customer's data is updated.
+- allows the database to be queried using simple query commands such as CREATE, INSERT, and more.
 
 ## CONTRIBUTION
 
