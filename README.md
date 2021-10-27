@@ -12,7 +12,7 @@ This is an **INCOMPLETE mini** bank application written in C. It is used to rein
 
 1. `git clone <repo_url>`
 2. `cd BankApp`
-3. `source ./build`
+3. `source ./build.sh`
 4. `./bank`
 
 ## FEATURES MISSING
@@ -45,7 +45,7 @@ git checkout <name>
 
 > **NOTE**: Your name will join the list once you have contributed to the repo.
 
-## PURPOSE OF THIS PROJECT
+## _PURPOSE OF THIS PROJECT_
 
 - I undertook this project after learning the essential features of the C programming language.
 I wanted to condense the knowledge thus gathered into a project which, though **dummy**, models
