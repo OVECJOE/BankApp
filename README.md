@@ -30,12 +30,6 @@ This is an **INCOMPLETE mini** bank application written in C. It is used to rein
 At present, I am trying to implement a database system for the customers, because the use of files
 is becoming inefficient.
 
-**THE DATABASE SYSTEM WILL**:
-
-- store a new customer's info.
-- dynamically updates the database once any customer's data is updated.
-- allows the database to be queried using simple query commands such as CREATE, INSERT, and more.
-
 ## CONTRIBUTION
 
 - In other to contribute to this, follow the **INSTALLATION INSTRUCTIONS** section.
